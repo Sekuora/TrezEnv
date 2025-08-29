@@ -1,3 +1,5 @@
+![Badge](https://img.shields.io/npm/dt/lodash?color=yellow)
+
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -98,7 +100,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 - [ ] Add and test support with various build tools
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Sekuora/Trezenv/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
