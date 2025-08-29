@@ -168,7 +168,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
- Licensed under <a href="https://www.tldrlegal.com/license/apache-license-2-0-apache-2-0" >  Apache-2.0 License
+ Licensed under <a href="https://github.com/Sekuora/Trezenv/blob/main/LICENSE" >  Apache-2.0 License
     
   </a>
 
