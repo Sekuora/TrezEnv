@@ -69,7 +69,7 @@ Requirements for the software and other tools to build, test and push
 Clone this repository:
 
   ```sh
-  git clone https://github.com/github_username/repo_name.git
+  https://github.com/Sekuora/Trezenv.git
   ```
 
 Open the project with your IDE of preference and run:
@@ -139,7 +139,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE $<IF:$<TARGET_EXISTS:SDL3_im
 - [X] Install dependencies from trezenv file
 - [X] Get project dependencies ready with a sinigle trezenv init command
 - [X] Work with vcpkg manifest mode
-- [ ] Make it work from globally from system environment variables
+- [ ] Make it work globally from system environment variables
 - [ ] Improve trezenv file parsing add support for triplets
 - [ ] Create fully featured docs and video demo
 - [ ] Add more easy to use commands for miscellaneous features
