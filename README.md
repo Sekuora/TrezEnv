@@ -144,6 +144,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE $<IF:$<TARGET_EXISTS:SDL3_im
 - [ ] Create fully featured docs and video demo
 - [ ] Add more easy to use commands for miscellaneous features
 - [ ] Add and test support with various build tools
+- [ ] Automatically Add vcpkg deps in CMakeLists.txt
 
 See the [open issues](https://github.com/Sekuora/Trezenv/issues) for a full list of proposed features (and known issues).
 
