@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/npm/dt/lodash?color=yellow)
+![Badge](https://img.shields.io/npm/dt/lodash?color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/Sekuora/Trezenv?color=blue)
 
 <br />
 <div align="center">
@@ -48,9 +48,13 @@
   </ol>
 </p>
 
-## Built With
+## Contributors
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<a href="https://github.com/Sekuora/Trezenv/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sekuora/Trezenv" />
+</a>
+
+We are grateful for all these contributors!
 
 
 ## Installation
