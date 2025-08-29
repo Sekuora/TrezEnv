@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/npm/dt/lodash?color=yellow) ![GitHub contributors](https://img.shields.io/github/contributors/Sekuora/Trezenv?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/Sekuora/Trezenv?color=blue)
 
 <br />
 <div align="center">
