@@ -137,7 +137,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE $<IF:$<TARGET_EXISTS:SDL3_im
 ## Roadmap
 
 - [X] Install dependencies from trezenv file
-- [X] Get project dependencies ready with a sinigle trezenv init command
+- [X] Get project dependencies ready with a single trezenv init command
 - [X] Work with vcpkg manifest mode
 - [ ] Make it work globally from system environment variables
 - [ ] Improve trezenv file parsing add support for triplets
