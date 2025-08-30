@@ -69,7 +69,7 @@ Requirements for the software and other tools to build, test and push
 Clone this repository:
 
   ```sh
-  https://github.com/Sekuora/Trezenv.git
+  https://github.com/Sekuora/TrezEnv.git
   ```
 
 Open the project with your IDE of preference and run:
