@@ -9,7 +9,7 @@
 <h2 align="center">Trezenv </h2>
 
 <p align="center">
-    A CLI tool to produce a project local vcpkg installation. Create replicable C++ environments with ease and manage dependencies using the vcpkg toolchain. 
+    A CLI tool to produce a project local vcpkg installation. Create IDE agnostic and replicable C/C++ environments with ease and manage dependencies using the vcpkg toolchain. 
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
