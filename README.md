@@ -177,5 +177,5 @@ Don't forget to give the project a star! Thanks again!
 In hopes you have found the project useful and want to support development I share the platforms where you can show your support! 💓 Any donations are greatly appreciated.
 
 ## Acknolwdgements
-Thanks to https://github.com/othneildrew/Best-README-Template for the readme template
+
 
