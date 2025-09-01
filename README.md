@@ -50,8 +50,8 @@
 
 ## Contributors
 
-<a href="https://github.com/Sekuora/Trezenv/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sekuora/Trezenv" />
+<a href="https://github.com/Sekuora/TrezEnv/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sekuora/TrezEnv" />
 </a>
 
 We are grateful for all these contributors!
