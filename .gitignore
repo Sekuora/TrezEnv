@@ -29,6 +29,7 @@ trezenv.build
 trezenv.dist
 trezenv.onefile-build
 *.exe
+externals
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
